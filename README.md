@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, Welcome To Saleh Ahmed's GitHub
+### Hi there 👋, Welcome To Saleh Ahmed's GitHub
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/1TRrmNr/Saleh-Ahmed-Mahin.png)
 
