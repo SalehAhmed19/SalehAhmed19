@@ -12,5 +12,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmed19&show_icons=true&locale=en&layout=compact" alt="salehahmed19" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salehahmed19&show_icons=true&locale=en" alt="salehahmed19" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehahmed19&" alt="salehahmed19" /></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SalehAhmed19)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SalehAhmed19)  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SalehAhmed19)  
