@@ -1,6 +1,4 @@
-# Hi there 👋, Welcome To Saleh Ahmed's GitHub
-
-![I am GitHub Readme Generator's creator](https://i.ibb.co/4mGsQL9/Saleh-Ah.png)
+![I am GitHub Readme Generator's creator]([https://i.ibb.co/4mGsQL9/Saleh-Ah.png](https://i.ibb.co/60zmnxj5/Teal-Illustration-Digital-Business-Blog-Banner.png))
 
 ## 💫 About Me:
 I'm currently learning React.Js
